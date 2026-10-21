@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/trapped-ion-processor-explainer/
 
+Repository: https://github.com/mizcausevic-dev/trapped-ion-processor-explainer
+
 ## What this is
 
 An interactive anatomy plate for Trapped-Ion Processor. Play, scrub, or jump the five stages. The same frame always draws the same picture.
